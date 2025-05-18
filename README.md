@@ -27,6 +27,7 @@ Send, store, and display notifications (email/SMS/in-app) for users.
 ### 1. Clone the Repository
 
 git clone https://github.com/sr993108/Notification_Service
+
 cd notification-service
 
 ### 2. Start MongoDB, RabbitMQ, and Mongo Express
